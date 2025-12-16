@@ -1,0 +1,1548 @@
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+.b9464-1fc8-42d6-92ae-814578dc7-parent {
+  	width: 100%;
+  	height: 19155px;
+  	position: relative;
+  	background-color: #000;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 20px;
+  	color: #fff;
+  	font-family: 'Roboto Serif';
+}
+.b9464-1fc8-42d6-92ae-814578dc7 {
+  	position: absolute;
+  	top: 1188px;
+  	left: 0px;
+  	width: 1188px;
+  	height: 1933px;
+  	transform:  rotate(-90deg);
+  	transform-origin: 0 0;
+  	flex-shrink: 0;
+}
+.image-19-icon {
+  	position: absolute;
+  	top: 15687px;
+  	left: 676px;
+  	border-radius: 34px;
+  	width: 1148px;
+  	height: 584px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-18-icon {
+  	position: absolute;
+  	top: 15114px;
+  	left: 95px;
+  	border-radius: 34px;
+  	width: 1148px;
+  	height: 518px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-17-icon {
+  	position: absolute;
+  	top: 14527px;
+  	left: 1022px;
+  	border-radius: 35px;
+  	width: 815px;
+  	height: 489px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-16-icon {
+  	position: absolute;
+  	top: 14527px;
+  	left: 95px;
+  	border-radius: 35px;
+  	width: 847px;
+  	height: 489px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-15-icon {
+  	position: absolute;
+  	top: 4454px;
+  	left: 199px;
+  	border-radius: 318.5px;
+  	width: 566px;
+  	height: 848px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-14-icon {
+  	position: absolute;
+  	top: 10564px;
+  	left: 1007px;
+  	border-radius: 35px;
+  	width: 808px;
+  	height: 541px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-11-icon {
+  	position: absolute;
+  	top: 9344px;
+  	left: 1007px;
+  	border-radius: 35px;
+  	width: 808px;
+  	height: 541px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-10-icon {
+  	position: absolute;
+  	top: 8797px;
+  	left: 1007px;
+  	border-radius: 35px;
+  	width: 808px;
+  	height: 509px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-7-icon {
+  	position: absolute;
+  	top: 9923px;
+  	left: 1007px;
+  	border-radius: 35px;
+  	width: 808px;
+  	height: 608px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-6-icon {
+  	position: absolute;
+  	top: 9923px;
+  	left: 124px;
+  	border-radius: 35px;
+  	width: 811px;
+  	height: 608px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.blue-gradient-filter {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background: linear-gradient(0.02deg, rgba(255, 255, 255, 0), rgba(0, 246, 255, 0.26));
+  	width: 1933px;
+  	height: 1188px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.olongapos-history {
+  	position: absolute;
+  	top: 311px;
+  	left: 62px;
+  	width: 924px;
+  	height: 563px;
+  	flex-shrink: 0;
+  	font-size: 128px;
+  	color: #000;
+}
+.rounded-rectangle {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	backdrop-filter: blur(4px);
+  	border-radius: 25px;
+  	background-color: rgba(211, 211, 211, 0.44);
+  	width: 924px;
+  	height: 563px;
+}
+.olongapo-city {
+  	position: absolute;
+  	top: 18px;
+  	left: 34px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 778px;
+  	height: 340px;
+}
+.olongapo-city-stands {
+  	position: absolute;
+  	top: 322px;
+  	left: 33px;
+  	font-size: 20px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 858px;
+  	height: 241px;
+}
+.from-a-humble {
+  	position: absolute;
+  	top: 1532px;
+  	left: 197px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1539px;
+  	height: 84px;
+  	flex-shrink: 0;
+}
+.the-name-olongapo-container {
+  	position: absolute;
+  	top: 1906px;
+  	left: 116px;
+  	letter-spacing: 0.03em;
+  	text-align: right;
+  	display: flex;
+  	align-items: center;
+  	width: 1715px;
+  	height: 161px;
+  	flex-shrink: 0;
+  	color: #00f6ff;
+}
+.the-name-olongapo-container2 {
+  	width: 100%;
+}
+.according-to-the {
+  	font-weight: 500;
+  	color: #fff;
+}
+.before-the-arrival-container {
+  	position: absolute;
+  	top: 2357px;
+  	left: 116px;
+  	letter-spacing: 0.03em;
+  	display: flex;
+  	align-items: center;
+  	width: 1634px;
+  	height: 137px;
+  	flex-shrink: 0;
+}
+.before-the-arrival-of-foreign {
+  	margin: 0;
+  	color: #00f6ff;
+}
+.blank-line {
+  	margin: 0;
+  	font-weight: 500;
+}
+.the-aetas-as-the-earliest-set {
+  	margin: 0;
+  	font-size: inherit;
+  	padding-left: 27px;
+}
+.the-aetas-as-the-earliest-set2 {
+  	margin-bottom: 0px;
+}
+.the-aetas {
+  	font-family: 'Roboto Serif';
+}
+.as-the-earliest {
+  	font-weight: 500;
+}
+.the-destiny-of-container {
+  	position: absolute;
+  	top: 2901px;
+  	left: 111px;
+  	letter-spacing: 0.03em;
+  	text-align: right;
+  	display: flex;
+  	align-items: center;
+  	width: 1715px;
+  	height: 276px;
+  	flex-shrink: 0;
+}
+.following-the-treaty-container {
+  	position: absolute;
+  	top: 3467px;
+  	left: 111px;
+  	letter-spacing: 0.03em;
+  	display: flex;
+  	align-items: center;
+  	width: 1715px;
+  	height: 207px;
+  	flex-shrink: 0;
+  	color: #00f6ff;
+}
+.following-the-treaty-of-paris {
+  	margin: 0;
+}
+.in-the-early {
+  	font-weight: 500;
+  	font-family: 'Roboto Serif';
+  	color: #fff;
+}
+.growth-and-war-the-town-grew {
+  	margin: 0;
+  	font-size: inherit;
+  	padding-left: 27px;
+  	color: #fff;
+}
+.ulo-ng-apo {
+  	position: absolute;
+  	top: 211px;
+  	left: 1061px;
+  	width: 839px;
+  	height: 763px;
+  	flex-shrink: 0;
+  	font-size: 32px;
+  	color: #000;
+}
+.b8a837-edcc-4e32-a7f7-719aaf42-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 28.72px;
+  	width: 677.7px;
+  	height: 752.2px;
+  	object-fit: cover;
+}
+.ulo-ng-apo-child {
+  	position: absolute;
+  	top: 635.14px;
+  	left: 489.09px;
+  	backdrop-filter: blur(4px);
+  	border-radius: 25px;
+  	background-color: rgba(217, 217, 217, 0.44);
+  	width: 349.9px;
+  	height: 127.9px;
+}
+.december-7-1959 {
+  	position: absolute;
+  	top: 648.77px;
+  	left: 506.13px;
+  	display: inline-block;
+  	width: 315.1px;
+  	height: 35.1px;
+}
+.olongapo-became-a-municipality {
+  	position: absolute;
+  	top: 701.16px;
+  	left: 491.99px;
+  	font-size: 18px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 344.1px;
+  	height: 36.8px;
+}
+.rounded-rectangle2 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	backdrop-filter: blur(4px);
+  	border-radius: 25px;
+  	background-color: rgba(211, 211, 211, 0.44);
+  	width: 290px;
+  	height: 112px;
+}
+.june-1-1966 {
+  	position: absolute;
+  	top: 9.19px;
+  	left: 39.63px;
+  	display: inline-block;
+  	width: 214.6px;
+  	height: 36.8px;
+}
+.with-the-signing {
+  	position: absolute;
+  	top: 55.99px;
+  	left: 37.7px;
+  	font-size: 18px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 214.6px;
+  	height: 36.8px;
+}
+.frame-child {
+  	position: absolute;
+  	top: -0.2px;
+  	left: -0.2px;
+  	background-color: rgba(194, 194, 194, 0.4);
+  	border: 0.2px solid #373636;
+  	box-sizing: border-box;
+  	width: 1933.4px;
+  	height: 155.4px;
+  	flex-shrink: 0;
+}
+.founding-and-early {
+  	position: absolute;
+  	top: 1388px;
+  	left: 197px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1539px;
+  	height: 116px;
+  	flex-shrink: 0;
+}
+.the-legend-ulo {
+  	position: absolute;
+  	top: 1747px;
+  	left: 292px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	text-align: right;
+  	display: flex;
+  	align-items: center;
+  	justify-content: flex-end;
+  	width: 1539px;
+  	height: 116px;
+  	flex-shrink: 0;
+}
+.the-first-inhabitants {
+  	position: absolute;
+  	top: 2198px;
+  	left: 116px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 1539px;
+  	height: 116px;
+  	flex-shrink: 0;
+}
+.the-spanish-era {
+  	position: absolute;
+  	top: 2625px;
+  	left: 292px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	text-align: right;
+  	display: flex;
+  	align-items: center;
+  	justify-content: flex-end;
+  	width: 1539px;
+  	height: 233px;
+  	flex-shrink: 0;
+}
+.the-american-occupation {
+  	position: absolute;
+  	top: 3308px;
+  	left: 111px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 1300px;
+  	height: 116px;
+  	flex-shrink: 0;
+}
+.government-system {
+  	position: absolute;
+  	top: 4258px;
+  	left: 467px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1004px;
+  	height: 116px;
+  	flex-shrink: 0;
+}
+.geography-and-environment {
+  	position: absolute;
+  	top: 7559px;
+  	left: 239px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1480px;
+  	height: 116px;
+  	flex-shrink: 0;
+}
+.heritage-and-traditions {
+  	position: absolute;
+  	top: 11434px;
+  	left: 374px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1183px;
+  	height: 116px;
+  	flex-shrink: 0;
+}
+.hotline-emergency-numbers {
+  	position: absolute;
+  	top: 16573px;
+  	left: 252px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1430px;
+  	height: 116px;
+  	flex-shrink: 0;
+}
+.origin-of-the {
+  	position: absolute;
+  	top: 11893px;
+  	left: 90px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 1467px;
+  	height: 116px;
+  	flex-shrink: 0;
+}
+.local-culture-and {
+  	position: absolute;
+  	top: 12276px;
+  	left: 472px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	text-align: right;
+  	display: flex;
+  	align-items: center;
+  	justify-content: flex-end;
+  	width: 1360px;
+  	height: 116px;
+  	flex-shrink: 0;
+}
+.dna-of-the {
+  	position: absolute;
+  	top: 12774px;
+  	left: 86px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 1742px;
+  	height: 137px;
+  	flex-shrink: 0;
+}
+.jeepney-culture-and {
+  	position: absolute;
+  	top: 13430px;
+  	left: 82px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	text-align: right;
+  	display: flex;
+  	align-items: center;
+  	justify-content: flex-end;
+  	width: 1742px;
+  	height: 111px;
+  	flex-shrink: 0;
+}
+.indigenous-roots {
+  	position: absolute;
+  	top: 13969px;
+  	left: 90px;
+  	font-size: 80px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 1742px;
+  	height: 111px;
+  	flex-shrink: 0;
+}
+.nav-buttons {
+  	position: absolute;
+  	top: 15px;
+  	left: 62px;
+  	width: 1815.5px;
+  	height: 126.5px;
+  	flex-shrink: 0;
+  	text-align: center;
+  	font-size: 24px;
+  	color: #000;
+}
+.geography-and-environment2 {
+  	position: absolute;
+  	top: 46.99px;
+  	left: 738.93px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 192.6px;
+  	height: 33.6px;
+}
+.heritage-and-traditions2 {
+  	position: absolute;
+  	top: 43.63px;
+  	left: 952.83px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 169.1px;
+  	height: 33.6px;
+}
+.hotline-emergency-numbers2 {
+  	position: absolute;
+  	top: 44px;
+  	left: 1143px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 277px;
+  	height: 34px;
+}
+.government-system2 {
+  	position: absolute;
+  	top: 46.99px;
+  	left: 529.51px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 188.1px;
+  	height: 33.6px;
+}
+.founding-and-early2 {
+  	position: absolute;
+  	top: 46.99px;
+  	left: 299.93px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 208.3px;
+  	height: 33.6px;
+}
+.home {
+  	position: absolute;
+  	top: 46.99px;
+  	left: 175.62px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 103px;
+  	height: 33.6px;
+}
+.options-icon {
+  	position: absolute;
+  	top: 18px;
+  	left: 1733px;
+  	width: 82.5px;
+  	height: 82.5px;
+  	object-fit: cover;
+}
+.olongapo-city-logo {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 127.1px;
+  	height: 126.5px;
+  	object-fit: cover;
+}
+.quote-in-founding-and-early-se {
+  	position: absolute;
+  	top: 3792px;
+  	left: 983px;
+  	width: 843px;
+  	height: 168px;
+  	flex-shrink: 0;
+}
+.quote-in-founding-and-early-se-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: rgba(255, 255, 255, 0.11);
+  	width: 843px;
+  	height: 168px;
+}
+.quote-in-founding-and-early-se-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #00f6ff;
+  	width: 11.8px;
+  	height: 168px;
+}
+.a-city-defined {
+  	position: absolute;
+  	top: 3855px;
+  	left: 1064px;
+  	font-size: 24px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 742px;
+  	height: 56px;
+  	flex-shrink: 0;
+}
+.div {
+  	position: absolute;
+  	top: 3813px;
+  	left: 1025px;
+  	font-size: 96px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	color: #00f6ff;
+  	display: flex;
+  	align-items: center;
+  	width: 94px;
+  	height: 84px;
+  	flex-shrink: 0;
+}
+.div2 {
+  	position: absolute;
+  	top: 3844px;
+  	left: 156px;
+  	font-size: 48px;
+  	letter-spacing: 0.03em;
+  	color: #00f6ff;
+  	display: flex;
+  	align-items: center;
+  	width: 64px;
+  	height: 50px;
+  	flex-shrink: 0;
+}
+.k {
+  	position: absolute;
+  	top: 3844px;
+  	left: 382px;
+  	font-size: 48px;
+  	letter-spacing: 0.03em;
+  	color: #00f6ff;
+  	display: flex;
+  	align-items: center;
+  	width: 142px;
+  	height: 64px;
+  	flex-shrink: 0;
+}
+.div3 {
+  	position: absolute;
+  	top: 3844px;
+  	left: 671px;
+  	font-size: 48px;
+  	letter-spacing: 0.03em;
+  	color: #00f6ff;
+  	display: flex;
+  	align-items: center;
+  	width: 85px;
+  	height: 64px;
+  	flex-shrink: 0;
+}
+.barangays {
+  	position: absolute;
+  	top: 3901px;
+  	left: 123px;
+  	font-size: 24px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 129px;
+  	height: 28px;
+  	flex-shrink: 0;
+}
+.population {
+  	position: absolute;
+  	top: 3907px;
+  	left: 382px;
+  	font-size: 24px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 141px;
+  	height: 28px;
+  	flex-shrink: 0;
+}
+.sq-km-area {
+  	position: absolute;
+  	top: 3907px;
+  	left: 637px;
+  	font-size: 24px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 154px;
+  	height: 28px;
+  	flex-shrink: 0;
+}
+.frame-item {
+  	position: absolute;
+  	top: 4125px;
+  	left: 16px;
+  	border-top: 2px solid rgba(255, 254, 254, 0.28);
+  	box-sizing: border-box;
+  	width: 1935px;
+  	height: 2px;
+  	transform:  rotate(-0.1deg);
+  	transform-origin: 0 0;
+  	flex-shrink: 0;
+}
+.frame-inner {
+  	position: absolute;
+  	top: 7409px;
+  	left: 0px;
+  	width: 1933px;
+  	height: 2px;
+  	object-fit: contain;
+  	flex-shrink: 0;
+}
+.line-div {
+  	position: absolute;
+  	top: 11280px;
+  	left: -2px;
+  	border-top: 2px solid rgba(255, 254, 254, 0.28);
+  	box-sizing: border-box;
+  	width: 1935px;
+  	height: 2px;
+  	transform:  rotate(-0.1deg);
+  	transform-origin: 0 0;
+  	flex-shrink: 0;
+}
+.frame-child2 {
+  	position: absolute;
+  	top: 16416px;
+  	left: -1px;
+  	border-top: 2px solid rgba(255, 254, 254, 0.28);
+  	box-sizing: border-box;
+  	width: 1935px;
+  	height: 2px;
+  	transform:  rotate(-0.1deg);
+  	transform-origin: 0 0;
+  	flex-shrink: 0;
+}
+.frame-child3 {
+  	position: absolute;
+  	top: 18671px;
+  	left: -2px;
+  	border-top: 2px solid rgba(255, 254, 254, 0.28);
+  	box-sizing: border-box;
+  	width: 1935px;
+  	height: 2px;
+  	transform:  rotate(-0.1deg);
+  	transform-origin: 0 0;
+  	flex-shrink: 0;
+}
+.footer {
+  	position: absolute;
+  	top: 18683px;
+  	left: -1px;
+  	background-color: #000;
+  	width: 1933px;
+  	height: 472px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	text-align: center;
+  	font-size: 16px;
+  	font-family: Inter;
+}
+.rights-reserved {
+  	position: absolute;
+  	height: 5.72%;
+  	top: 86.02%;
+  	left: calc(50% - 261.5px);
+  	line-height: 140%;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 423px;
+}
+.footer2 {
+  	position: absolute;
+  	top: 67.98px;
+  	left: 281px;
+  	width: 1323.6px;
+  	height: 262px;
+  	text-align: left;
+}
+.column-4 {
+  	position: absolute;
+  	top: 0px;
+  	left: 1065.98px;
+  	width: 257.6px;
+  	height: 237px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	gap: 12px;
+}
+.title {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	padding: 0px 0px 16px;
+  	font-size: 24px;
+}
+.text-strong {
+  	align-self: stretch;
+  	display: flex;
+  	align-items: flex-start;
+}
+.legal {
+  	position: relative;
+  	letter-spacing: -0.03em;
+  	line-height: 100%;
+  	font-weight: 500;
+}
+.text-link-list-item {
+  	width: 89px;
+  	height: 22px;
+  	position: relative;
+}
+.terms-of-service {
+  	position: absolute;
+  	top: 0%;
+  	left: 0%;
+  	line-height: 140%;
+  	flex-shrink: 0;
+}
+.column-3 {
+  	position: absolute;
+  	top: 0px;
+  	left: 784.32px;
+  	width: 248.5px;
+  	height: 237px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	gap: 12px;
+}
+.images {
+  	position: absolute;
+  	top: 0%;
+  	left: 0%;
+  	line-height: 140%;
+}
+.column-2 {
+  	position: absolute;
+  	top: 0.02px;
+  	left: 510px;
+  	width: 251px;
+  	height: 262px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	gap: 12px;
+}
+.home2 {
+  	position: relative;
+  	line-height: 140%;
+}
+.donor-street-east {
+  	position: absolute;
+  	top: 85.48px;
+  	left: 0px;
+  	font-size: 13px;
+  	line-height: 140%;
+  	display: inline-block;
+  	width: 359px;
+  	height: 17px;
+}
+.a-project-website {
+  	position: absolute;
+  	top: 0.02px;
+  	left: 0.76px;
+  	line-height: 140%;
+  	display: inline-block;
+  	width: 359px;
+}
+.understanding-the-administrati {
+  	position: absolute;
+  	top: 4387px;
+  	left: 514px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 909px;
+  	height: 30px;
+  	flex-shrink: 0;
+}
+.governance {
+  	position: absolute;
+  	top: 4211px;
+  	left: 868px;
+  	font-size: 32px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	color: #00f6ff;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 201px;
+  	height: 30px;
+  	flex-shrink: 0;
+}
+.physical-geography-and {
+  	position: absolute;
+  	top: 7482px;
+  	left: 573px;
+  	font-size: 32px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	color: #00f6ff;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 785px;
+  	height: 37px;
+  	flex-shrink: 0;
+}
+.history-culture-and {
+  	position: absolute;
+  	top: 11358px;
+  	left: 569px;
+  	font-size: 32px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	color: #00f6ff;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 785px;
+  	height: 37px;
+  	flex-shrink: 0;
+}
+.emergency-and-assistance {
+  	position: absolute;
+  	top: 16499px;
+  	left: 574px;
+  	font-size: 32px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	color: #00f6ff;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 785px;
+  	height: 37px;
+  	flex-shrink: 0;
+}
+.our-origin {
+  	position: absolute;
+  	top: 1315px;
+  	left: 873px;
+  	font-size: 32px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	color: #00f6ff;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 188px;
+  	height: 30px;
+  	flex-shrink: 0;
+}
+.the-olongapo-city-hall-1 {
+  	position: absolute;
+  	top: 5785px;
+  	left: 68px;
+  	border-radius: 50px;
+  	width: 970px;
+  	height: 578px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 6478px;
+  	left: 68px;
+  	border-radius: 20px;
+  	background-color: rgba(255, 255, 255, 0.21);
+  	width: 966px;
+  	height: 274px;
+  	flex-shrink: 0;
+}
+.frame-child4 {
+  	position: absolute;
+  	top: 6823px;
+  	left: 68px;
+  	border-radius: 20px;
+  	background-color: rgba(255, 255, 255, 0.21);
+  	width: 1805px;
+  	height: 436px;
+  	flex-shrink: 0;
+}
+.frame-child5 {
+  	position: absolute;
+  	top: 5785px;
+  	left: 1112px;
+  	border-radius: 20px;
+  	background-color: rgba(255, 255, 255, 0.21);
+  	width: 761px;
+  	height: 195px;
+  	flex-shrink: 0;
+}
+.frame-child6 {
+  	position: absolute;
+  	top: 4540px;
+  	left: 969px;
+  	border-radius: 35px;
+  	background-color: rgba(255, 255, 255, 0.21);
+  	width: 911px;
+  	height: 676px;
+  	flex-shrink: 0;
+}
+.frame-child7 {
+  	position: absolute;
+  	top: 5357px;
+  	left: 83px;
+  	border-radius: 35px;
+  	background-color: rgba(255, 255, 255, 0.21);
+  	width: 1797px;
+  	height: 289px;
+  	flex-shrink: 0;
+}
+.frame-child8 {
+  	position: absolute;
+  	top: 6038px;
+  	left: 1112px;
+  	border-radius: 20px;
+  	background-color: rgba(255, 255, 255, 0.21);
+  	width: 761px;
+  	height: 195px;
+  	flex-shrink: 0;
+}
+.frame-child9 {
+  	position: absolute;
+  	top: 6304px;
+  	left: 1112px;
+  	border-radius: 20px;
+  	background-color: rgba(255, 255, 255, 0.21);
+  	width: 761px;
+  	height: 195px;
+  	flex-shrink: 0;
+}
+.frame-child10 {
+  	position: absolute;
+  	top: 6555px;
+  	left: 1105px;
+  	border-radius: 20px;
+  	background-color: rgba(255, 255, 255, 0.21);
+  	width: 761px;
+  	height: 195px;
+  	flex-shrink: 0;
+}
+.cityhood-charter {
+  	position: absolute;
+  	top: 6524px;
+  	left: 226px;
+  	font-size: 36px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 420px;
+  	height: 56px;
+  	flex-shrink: 0;
+}
+.city-mayor {
+  	position: absolute;
+  	top: 5814px;
+  	left: 1245px;
+  	font-size: 32px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 262px;
+  	height: 56px;
+  	flex-shrink: 0;
+}
+.hon-rolen-c {
+  	position: absolute;
+  	top: 4563px;
+  	left: 1012px;
+  	font-size: 40px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 498px;
+  	height: 56px;
+  	flex-shrink: 0;
+}
+.city-mayor-olongapo {
+  	position: absolute;
+  	top: 4632px;
+  	left: 1015px;
+  	font-size: 30px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 420px;
+  	height: 37px;
+  	flex-shrink: 0;
+}
+.city-council {
+  	position: absolute;
+  	top: 6076px;
+  	left: 1242px;
+  	font-size: 32px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 262px;
+  	height: 42px;
+  	flex-shrink: 0;
+}
+.city-departments {
+  	position: absolute;
+  	top: 6345px;
+  	left: 1242px;
+  	font-size: 32px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 321px;
+  	height: 42px;
+  	flex-shrink: 0;
+}
+.barangay-system {
+  	position: absolute;
+  	top: 6613px;
+  	left: 1242px;
+  	font-size: 32px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 324px;
+  	height: 40px;
+  	flex-shrink: 0;
+}
+.understanding-olongapo-became {
+  	position: absolute;
+  	top: 6580px;
+  	left: 95px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 909px;
+  	height: 140px;
+  	flex-shrink: 0;
+}
+.olongapo-city-operates {
+  	position: absolute;
+  	top: 6846px;
+  	left: 125px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1691px;
+  	height: 391px;
+  	flex-shrink: 0;
+}
+.olongapo-city-is {
+  	position: absolute;
+  	top: 7715px;
+  	left: 124px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1691px;
+  	height: 253px;
+  	flex-shrink: 0;
+}
+.olongapo-citys-heritage {
+  	position: absolute;
+  	top: 11573px;
+  	left: 119px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1691px;
+  	height: 161px;
+  	flex-shrink: 0;
+}
+.the-name-olongapo-container3 {
+  	position: absolute;
+  	top: 12048px;
+  	left: 86px;
+  	letter-spacing: 0.03em;
+  	display: flex;
+  	align-items: center;
+  	width: 1742px;
+  	height: 69px;
+  	flex-shrink: 0;
+}
+.olongapo {
+  	color: #00f6ff;
+}
+.olongapos-culture-reflects {
+  	position: absolute;
+  	top: 12431px;
+  	left: 82px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	text-align: right;
+  	display: flex;
+  	align-items: center;
+  	justify-content: flex-end;
+  	width: 1742px;
+  	height: 184px;
+  	flex-shrink: 0;
+}
+.bawal-ang-tamad-container {
+  	position: absolute;
+  	top: 12950px;
+  	left: 90px;
+  	letter-spacing: 0.03em;
+  	display: flex;
+  	align-items: center;
+  	width: 1742px;
+  	height: 321px;
+  	flex-shrink: 0;
+}
+.volunteerism-as-a {
+  	font-family: 'Roboto Serif';
+  	color: #00f6ff;
+}
+.order-on-the-container {
+  	position: absolute;
+  	top: 13603px;
+  	left: 82px;
+  	letter-spacing: 0.03em;
+  	text-align: right;
+  	display: flex;
+  	align-items: center;
+  	width: 1755px;
+  	flex-shrink: 0;
+}
+.the-aeta-stewardship-container {
+  	position: absolute;
+  	top: 14119px;
+  	left: 95px;
+  	letter-spacing: 0.03em;
+  	display: flex;
+  	align-items: center;
+  	width: 1742px;
+  	height: 206px;
+  	flex-shrink: 0;
+}
+.in-case-of {
+  	position: absolute;
+  	top: 16726px;
+  	left: 158px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1615px;
+  	height: 69px;
+  	flex-shrink: 0;
+}
+.primary-emergency-hotline-container {
+  	position: absolute;
+  	top: 16893px;
+  	left: 158px;
+  	letter-spacing: 0.03em;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	width: 1615px;
+  	height: 1591px;
+  	flex-shrink: 0;
+  	font-size: 30px;
+}
+.national-emergency-number-fir {
+  	margin: 0;
+  	font-size: 20px;
+  	padding-left: 27px;
+}
+.local-emergency-hotlines-city {
+  	margin: 0;
+  	font-size: 36px;
+  	color: #00f6ff;
+}
+.for-subic-areas-sbma-fire-d {
+  	margin: 0;
+  	font-size: 20px;
+  	padding-left: 27px;
+  	color: #00f6ff;
+}
+.new-cabalan-fire-rescue-22 {
+  	margin: 0;
+  	font-size: 20px;
+}
+.the-chief-executive {
+  	position: absolute;
+  	top: 5883px;
+  	left: 1139px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 694px;
+  	height: 72px;
+  	flex-shrink: 0;
+}
+.hon-rolen-c2 {
+  	position: absolute;
+  	top: 4699px;
+  	left: 1015px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 824px;
+  	height: 483px;
+  	flex-shrink: 0;
+}
+.this-strong-foundation {
+  	position: absolute;
+  	top: 5404px;
+  	left: 145px;
+  	font-size: 24px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1673px;
+  	height: 196px;
+  	flex-shrink: 0;
+}
+.the-legislative-body {
+  	position: absolute;
+  	top: 6136px;
+  	left: 1139px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 694px;
+  	height: 72px;
+  	flex-shrink: 0;
+}
+.various-departments-handle {
+  	position: absolute;
+  	top: 6402px;
+  	left: 1139px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 694px;
+  	height: 72px;
+  	flex-shrink: 0;
+}
+.seventeen-barangays-serve {
+  	position: absolute;
+  	top: 6674px;
+  	left: 1139px;
+  	letter-spacing: 0.03em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 694px;
+  	height: 53px;
+  	flex-shrink: 0;
+}
+.image-1-icon {
+  	position: absolute;
+  	top: 5800px;
+  	left: 1137px;
+  	width: 83px;
+  	height: 83px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-2-icon {
+  	position: absolute;
+  	top: 6058px;
+  	left: 1139px;
+  	width: 78px;
+  	height: 78px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-3-icon {
+  	position: absolute;
+  	top: 6327px;
+  	left: 1148px;
+  	width: 72px;
+  	height: 72px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-4-icon {
+  	position: absolute;
+  	top: 6598px;
+  	left: 1145px;
+  	width: 70px;
+  	height: 70px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-8-icon {
+  	position: absolute;
+  	top: 8066px;
+  	left: 124px;
+  	border-radius: 35px;
+  	width: 1691px;
+  	height: 669px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-9-icon {
+  	position: absolute;
+  	top: 8797px;
+  	left: 124px;
+  	border-radius: 35px;
+  	width: 811px;
+  	height: 509px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-12-icon {
+  	position: absolute;
+  	top: 9344px;
+  	left: 124px;
+  	border-radius: 35px;
+  	width: 811px;
+  	height: 541px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-13-icon {
+  	position: absolute;
+  	top: 10564px;
+  	left: 124px;
+  	border-radius: 35px;
+  	width: 811px;
+  	height: 541px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-20-icon {
+  	position: absolute;
+  	top: 6489px;
+  	left: 112px;
+  	width: 103px;
+  	height: 103px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+
